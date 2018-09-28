@@ -1,0 +1,180 @@
+client undefined connected
+0 data: 0x1; answer: 0
+0 data: 2+2; answer: 0
+0 data: 7x7; answer: 0
+0 data: 1x1; answer: 1
+client 0 disconnected
+client undefined connected
+1 data: 0x1; answer: 1
+1 data: 1x1; answer: 1
+1 data: 7x7; answer: 0
+1 data: 2+2; answer: 0
+client 1 disconnected
+client undefined connected
+client undefined connected
+2 data: 0x1; answer: 1
+2 data: 7x7; answer: 1
+2 data: 1x1; answer: 1
+2 data: 2+2; answer: 0
+client 2 disconnected
+3 data: 0x1; answer: 0
+3 data: 1x1; answer: 1
+3 data: 2+2; answer: 0
+3 data: 7x7; answer: 0
+client 3 disconnected
+client undefined connected
+client undefined connected
+4 data: 0x1; answer: 1
+4 data: 1x1; answer: 0
+4 data: 2+2; answer: 1
+4 data: 7x7; answer: 1
+client 4 disconnected
+5 data: 2+2; answer: 0
+5 data: 1x1; answer: 1
+5 data: 7x7; answer: 1
+5 data: 0x1; answer: 0
+client 5 disconnected
+client undefined connected
+6 data: 7x7; answer: 0
+6 data: 1x1; answer: 1
+6 data: 0x1; answer: 0
+6 data: 2+2; answer: 0
+client 6 disconnected
+client undefined connected
+7 data: 2+2; answer: 0
+7 data: 0x1; answer: 1
+7 data: 1x1; answer: 0
+7 data: 7x7; answer: 1
+client 7 disconnected
+client undefined connected
+8 data: 7x7; answer: 1
+8 data: 2+2; answer: 1
+8 data: 1x1; answer: 0
+8 data: 0x1; answer: 1
+client 8 disconnected
+client undefined connected
+9 data: 2+2; answer: 1
+9 data: 7x7; answer: 1
+9 data: 0x1; answer: 1
+9 data: 1x1; answer: 0
+client 9 disconnected
+client undefined connected
+10 data: 7x7; answer: 1
+10 data: 2+2; answer: 0
+10 data: 1x1; answer: 1
+10 data: 0x1; answer: 1
+client 10 disconnected
+client undefined connected
+11 data: 0x1; answer: 1
+11 data: 2+2; answer: 0
+11 data: 7x7; answer: 1
+11 data: 1x1; answer: 0
+client 11 disconnected
+client undefined connected
+12 data: 2+2; answer: 1
+12 data: 1x1; answer: 0
+12 data: 0x1; answer: 0
+12 data: 7x7; answer: 1
+client 12 disconnected
+client undefined connected
+13 data: 7x7; answer: 0
+13 data: 1x1; answer: 0
+13 data: 0x1; answer: 1
+13 data: 2+2; answer: 0
+client 13 disconnected
+client undefined connected
+14 data: 1x1; answer: 0
+14 data: 2+2; answer: 0
+14 data: 0x1; answer: 1
+14 data: 7x7; answer: 0
+client 14 disconnected
+client undefined connected
+client undefined connected
+15 data: 0x1; answer: 0
+15 data: 7x7; answer: 1
+15 data: 2+2; answer: 1
+15 data: 1x1; answer: 0
+client 15 disconnected
+16 data: 1x1; answer: 1
+16 data: 2+2; answer: 1
+16 data: 7x7; answer: 0
+16 data: 0x1; answer: 1
+client 16 disconnected
+client undefined connected
+17 data: 0x1; answer: 1
+17 data: 2+2; answer: 0
+17 data: 1x1; answer: 1
+17 data: 7x7; answer: 1
+client 17 disconnected
+client undefined connected
+18 data: 0x1; answer: 1
+client undefined connected
+18 data: 7x7; answer: 1
+18 data: 2+2; answer: 0
+18 data: 1x1; answer: 1
+client 18 disconnected
+19 data: 1x1; answer: 1
+19 data: 2+2; answer: 0
+19 data: 7x7; answer: 0
+19 data: 0x1; answer: 1
+client 19 disconnected
+client undefined connected
+20 data: 7x7; answer: 1
+20 data: 1x1; answer: 1
+20 data: 0x1; answer: 1
+20 data: 2+2; answer: 1
+client 20 disconnected
+client undefined connected
+21 data: 1x1; answer: 0
+21 data: 7x7; answer: 0
+21 data: 0x1; answer: 1
+21 data: 2+2; answer: 0
+client 21 disconnected
+client undefined connected
+22 data: 7x7; answer: 1
+22 data: 2+2; answer: 0
+22 data: 1x1; answer: 0
+22 data: 0x1; answer: 0
+client undefined connected
+client 22 disconnected
+23 data: 7x7; answer: 0
+23 data: 2+2; answer: 1
+23 data: 1x1; answer: 1
+23 data: 0x1; answer: 1
+client 23 disconnected
+client undefined connected
+24 data: 2+2; answer: 1
+24 data: 0x1; answer: 1
+24 data: 7x7; answer: 1
+24 data: 1x1; answer: 0
+client 24 disconnected
+client undefined connected
+25 data: 0x1; answer: 1
+25 data: 1x1; answer: 0
+25 data: 7x7; answer: 0
+25 data: 2+2; answer: 1
+client 25 disconnected
+client undefined connected
+26 data: 2+2; answer: 0
+26 data: 1x1; answer: 0
+26 data: 7x7; answer: 1
+26 data: 0x1; answer: 1
+client 26 disconnected
+client undefined connected
+27 data: 2+2; answer: 1
+27 data: 0x1; answer: 1
+27 data: 7x7; answer: 1
+27 data: 1x1; answer: 1
+client 27 disconnected
+client undefined connected
+28 data: 0x1; answer: 0
+28 data: 2+2; answer: 1
+28 data: 1x1; answer: 0
+28 data: 7x7; answer: 1
+client undefined connected
+client 28 disconnected
+29 data: 7x7; answer: 1
+29 data: 2+2; answer: 0
+29 data: 0x1; answer: 1
+29 data: 1x1; answer: 0
+client 29 disconnected
